@@ -1,3 +1,8 @@
-# Fadime-EREN
-# film-sitesi-2
-# home
+# Movie Site
+It allows you to watch the movies you want in the fastest and easiest way.
+# Technologies Used
+- HTML
+- CSS
+# Screenshot
+
+![Uploading ezgif-56324f903bbf5c.gif…]()
