@@ -5,6 +5,7 @@ It allows you to watch the movies you want in the fastest and easiest way.
 - CSS
 # Screenshot
 
-![ezgif-5c658e87991893 (3)](https://github.com/user-attachments/assets/ac2bb5c8-c046-4634-809a-7714746aae0d)
+![film clone gif](https://github.com/user-attachments/assets/09c09a59-3a76-43ed-b0cd-2ed20b5bff34)
+
 
 
